@@ -1,0 +1,2816 @@
+{
+    "\u6771\u4eac": [
+        {
+            "level": 1,
+            "minAmount": null,
+            "maxAmount": 63000,
+            "healthInsuranceFeesUnder40": 2894.2,
+            "healthInsuranceFeesOver40": 3358.2,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 2,
+            "minAmount": 63000,
+            "maxAmount": 73000,
+            "healthInsuranceFeesUnder40": 3393.2,
+            "healthInsuranceFeesOver40": 3937.2,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 3,
+            "minAmount": 73000,
+            "maxAmount": 83000,
+            "healthInsuranceFeesUnder40": 3892.2,
+            "healthInsuranceFeesOver40": 4516.2,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": "4",
+            "minAmount": 83000,
+            "maxAmount": 93000,
+            "healthInsuranceFeesUnder40": 4391.2,
+            "healthInsuranceFeesOver40": 5095.2,
+            "pensionInsuranceFees": 8052
+        },
+        {
+            "level": "5",
+            "minAmount": 93000,
+            "maxAmount": 101000,
+            "healthInsuranceFeesUnder40": 4890.2,
+            "healthInsuranceFeesOver40": 5674.2,
+            "pensionInsuranceFees": 8967
+        },
+        {
+            "level": "6",
+            "minAmount": 101000,
+            "maxAmount": 107000,
+            "healthInsuranceFeesUnder40": 5189.6,
+            "healthInsuranceFeesOver40": 6021.6,
+            "pensionInsuranceFees": 9516
+        },
+        {
+            "level": "7",
+            "minAmount": 107000,
+            "maxAmount": 114000,
+            "healthInsuranceFeesUnder40": 5489,
+            "healthInsuranceFeesOver40": 6369,
+            "pensionInsuranceFees": 10065
+        },
+        {
+            "level": "8",
+            "minAmount": 114000,
+            "maxAmount": 122000,
+            "healthInsuranceFeesUnder40": 5888.2,
+            "healthInsuranceFeesOver40": 6832.2,
+            "pensionInsuranceFees": 10797
+        },
+        {
+            "level": "9",
+            "minAmount": 122000,
+            "maxAmount": 130000,
+            "healthInsuranceFeesUnder40": 6287.4,
+            "healthInsuranceFeesOver40": 7295.4,
+            "pensionInsuranceFees": 11529
+        },
+        {
+            "level": "10",
+            "minAmount": 130000,
+            "maxAmount": 138000,
+            "healthInsuranceFeesUnder40": 6686.6,
+            "healthInsuranceFeesOver40": 7758.6,
+            "pensionInsuranceFees": 12261
+        },
+        {
+            "level": "11",
+            "minAmount": 138000,
+            "maxAmount": 146000,
+            "healthInsuranceFeesUnder40": 7085.8,
+            "healthInsuranceFeesOver40": 8221.8,
+            "pensionInsuranceFees": 12993
+        },
+        {
+            "level": "12",
+            "minAmount": 146000,
+            "maxAmount": 155000,
+            "healthInsuranceFeesUnder40": 7485,
+            "healthInsuranceFeesOver40": 8685,
+            "pensionInsuranceFees": 13725
+        },
+        {
+            "level": "13",
+            "minAmount": 155000,
+            "maxAmount": 165000,
+            "healthInsuranceFeesUnder40": 7984,
+            "healthInsuranceFeesOver40": 9264,
+            "pensionInsuranceFees": 14640
+        },
+        {
+            "level": "14",
+            "minAmount": 165000,
+            "maxAmount": 175000,
+            "healthInsuranceFeesUnder40": 8483,
+            "healthInsuranceFeesOver40": 9843,
+            "pensionInsuranceFees": 15555
+        },
+        {
+            "level": "15",
+            "minAmount": 175000,
+            "maxAmount": 185000,
+            "healthInsuranceFeesUnder40": 8982,
+            "healthInsuranceFeesOver40": 10422,
+            "pensionInsuranceFees": 16470
+        },
+        {
+            "level": "16",
+            "minAmount": 185000,
+            "maxAmount": 195000,
+            "healthInsuranceFeesUnder40": 9481,
+            "healthInsuranceFeesOver40": 11001,
+            "pensionInsuranceFees": 17385
+        },
+        {
+            "level": "17",
+            "minAmount": 195000,
+            "maxAmount": 210000,
+            "healthInsuranceFeesUnder40": 9980,
+            "healthInsuranceFeesOver40": 11580,
+            "pensionInsuranceFees": 18300
+        },
+        {
+            "level": "18",
+            "minAmount": 210000,
+            "maxAmount": 230000,
+            "healthInsuranceFeesUnder40": 10978,
+            "healthInsuranceFeesOver40": 12738,
+            "pensionInsuranceFees": 20130
+        },
+        {
+            "level": "19",
+            "minAmount": 230000,
+            "maxAmount": 250000,
+            "healthInsuranceFeesUnder40": 11976,
+            "healthInsuranceFeesOver40": 13896,
+            "pensionInsuranceFees": 21960
+        },
+        {
+            "level": "20",
+            "minAmount": 250000,
+            "maxAmount": 270000,
+            "healthInsuranceFeesUnder40": 12974,
+            "healthInsuranceFeesOver40": 15054,
+            "pensionInsuranceFees": 23790
+        },
+        {
+            "level": "21",
+            "minAmount": 270000,
+            "maxAmount": 290000,
+            "healthInsuranceFeesUnder40": 13972,
+            "healthInsuranceFeesOver40": 16212,
+            "pensionInsuranceFees": 25620
+        },
+        {
+            "level": "22",
+            "minAmount": 290000,
+            "maxAmount": 310000,
+            "healthInsuranceFeesUnder40": 14970,
+            "healthInsuranceFeesOver40": 17370,
+            "pensionInsuranceFees": 27450
+        },
+        {
+            "level": "23",
+            "minAmount": 310000,
+            "maxAmount": 330000,
+            "healthInsuranceFeesUnder40": 15968,
+            "healthInsuranceFeesOver40": 18528,
+            "pensionInsuranceFees": 29280
+        },
+        {
+            "level": "24",
+            "minAmount": 330000,
+            "maxAmount": 350000,
+            "healthInsuranceFeesUnder40": 16966,
+            "healthInsuranceFeesOver40": 19686,
+            "pensionInsuranceFees": 31110
+        },
+        {
+            "level": "25",
+            "minAmount": 350000,
+            "maxAmount": 370000,
+            "healthInsuranceFeesUnder40": 17964,
+            "healthInsuranceFeesOver40": 20844,
+            "pensionInsuranceFees": 32940
+        },
+        {
+            "level": "26",
+            "minAmount": 370000,
+            "maxAmount": 395000,
+            "healthInsuranceFeesUnder40": 18962,
+            "healthInsuranceFeesOver40": 22002,
+            "pensionInsuranceFees": 34770
+        },
+        {
+            "level": "27",
+            "minAmount": 395000,
+            "maxAmount": 425000,
+            "healthInsuranceFeesUnder40": 20459,
+            "healthInsuranceFeesOver40": 23739,
+            "pensionInsuranceFees": 37515
+        },
+        {
+            "level": "28",
+            "minAmount": 425000,
+            "maxAmount": 455000,
+            "healthInsuranceFeesUnder40": 21956,
+            "healthInsuranceFeesOver40": 25476,
+            "pensionInsuranceFees": 40260
+        },
+        {
+            "level": "29",
+            "minAmount": 455000,
+            "maxAmount": 485000,
+            "healthInsuranceFeesUnder40": 23453,
+            "healthInsuranceFeesOver40": 27213,
+            "pensionInsuranceFees": 43005
+        },
+        {
+            "level": "30",
+            "minAmount": 485000,
+            "maxAmount": 515000,
+            "healthInsuranceFeesUnder40": 24950,
+            "healthInsuranceFeesOver40": 28950,
+            "pensionInsuranceFees": 45750
+        },
+        {
+            "level": "31",
+            "minAmount": 515000,
+            "maxAmount": 545000,
+            "healthInsuranceFeesUnder40": 26447,
+            "healthInsuranceFeesOver40": 30687,
+            "pensionInsuranceFees": 48495
+        },
+        {
+            "level": "32",
+            "minAmount": 545000,
+            "maxAmount": 575000,
+            "healthInsuranceFeesUnder40": 27944,
+            "healthInsuranceFeesOver40": 32424,
+            "pensionInsuranceFees": 51240
+        },
+        {
+            "level": "33",
+            "minAmount": 575000,
+            "maxAmount": 605000,
+            "healthInsuranceFeesUnder40": 29441,
+            "healthInsuranceFeesOver40": 34161,
+            "pensionInsuranceFees": 53985
+        },
+        {
+            "level": "34",
+            "minAmount": 605000,
+            "maxAmount": 635000,
+            "healthInsuranceFeesUnder40": 30938,
+            "healthInsuranceFeesOver40": 35898,
+            "pensionInsuranceFees": 56730
+        },
+        {
+            "level": "35",
+            "minAmount": 635000,
+            "maxAmount": 665000,
+            "healthInsuranceFeesUnder40": 32435,
+            "healthInsuranceFeesOver40": 37635,
+            "pensionInsuranceFees": 59475
+        },
+        {
+            "level": 36,
+            "minAmount": 665000,
+            "maxAmount": 695000,
+            "healthInsuranceFeesUnder40": 33932,
+            "healthInsuranceFeesOver40": 39372,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 37,
+            "minAmount": 695000,
+            "maxAmount": 730000,
+            "healthInsuranceFeesUnder40": 35429,
+            "healthInsuranceFeesOver40": 41109,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 38,
+            "minAmount": 730000,
+            "maxAmount": 770000,
+            "healthInsuranceFeesUnder40": 37425,
+            "healthInsuranceFeesOver40": 43425,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 39,
+            "minAmount": 770000,
+            "maxAmount": 810000,
+            "healthInsuranceFeesUnder40": 39421,
+            "healthInsuranceFeesOver40": 45741,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 40,
+            "minAmount": 810000,
+            "maxAmount": 855000,
+            "healthInsuranceFeesUnder40": 41417,
+            "healthInsuranceFeesOver40": 48057,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 41,
+            "minAmount": 855000,
+            "maxAmount": 905000,
+            "healthInsuranceFeesUnder40": 43912,
+            "healthInsuranceFeesOver40": 50952,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 42,
+            "minAmount": 905000,
+            "maxAmount": 955000,
+            "healthInsuranceFeesUnder40": 46407,
+            "healthInsuranceFeesOver40": 53847,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 43,
+            "minAmount": 955000,
+            "maxAmount": 1005000,
+            "healthInsuranceFeesUnder40": 48902,
+            "healthInsuranceFeesOver40": 56742,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 44,
+            "minAmount": 1005000,
+            "maxAmount": 1055000,
+            "healthInsuranceFeesUnder40": 51397,
+            "healthInsuranceFeesOver40": 59637,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 45,
+            "minAmount": 1055000,
+            "maxAmount": 1115000,
+            "healthInsuranceFeesUnder40": 54391,
+            "healthInsuranceFeesOver40": 63111,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 46,
+            "minAmount": 1115000,
+            "maxAmount": 1175000,
+            "healthInsuranceFeesUnder40": 57385,
+            "healthInsuranceFeesOver40": 66585,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 47,
+            "minAmount": 1175000,
+            "maxAmount": 1235000,
+            "healthInsuranceFeesUnder40": 60379,
+            "healthInsuranceFeesOver40": 70059,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 48,
+            "minAmount": 1235000,
+            "maxAmount": 1295000,
+            "healthInsuranceFeesUnder40": 63373,
+            "healthInsuranceFeesOver40": 73533,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 49,
+            "minAmount": 1295000,
+            "maxAmount": 1355000,
+            "healthInsuranceFeesUnder40": 66367,
+            "healthInsuranceFeesOver40": 77007,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 50,
+            "minAmount": 1355000,
+            "maxAmount": null,
+            "healthInsuranceFeesUnder40": 69361,
+            "healthInsuranceFeesOver40": 80481,
+            "pensionInsuranceFees": null
+        }
+    ],
+    "\u5343\u8449": [
+        {
+            "level": 1,
+            "minAmount": null,
+            "maxAmount": 63000,
+            "healthInsuranceFeesUnder40": 2833.3,
+            "healthInsuranceFeesOver40": 3297.3,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 2,
+            "minAmount": 63000,
+            "maxAmount": 73000,
+            "healthInsuranceFeesUnder40": 3321.8,
+            "healthInsuranceFeesOver40": 3865.8,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 3,
+            "minAmount": 73000,
+            "maxAmount": 83000,
+            "healthInsuranceFeesUnder40": 3810.3,
+            "healthInsuranceFeesOver40": 4434.3,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": "4",
+            "minAmount": 83000,
+            "maxAmount": 93000,
+            "healthInsuranceFeesUnder40": 4298.8,
+            "healthInsuranceFeesOver40": 5002.8,
+            "pensionInsuranceFees": 8052
+        },
+        {
+            "level": "5",
+            "minAmount": 93000,
+            "maxAmount": 101000,
+            "healthInsuranceFeesUnder40": 4787.3,
+            "healthInsuranceFeesOver40": 5571.3,
+            "pensionInsuranceFees": 8967
+        },
+        {
+            "level": "6",
+            "minAmount": 101000,
+            "maxAmount": 107000,
+            "healthInsuranceFeesUnder40": 5080.4,
+            "healthInsuranceFeesOver40": 5912.4,
+            "pensionInsuranceFees": 9516
+        },
+        {
+            "level": "7",
+            "minAmount": 107000,
+            "maxAmount": 114000,
+            "healthInsuranceFeesUnder40": 5373.5,
+            "healthInsuranceFeesOver40": 6253.5,
+            "pensionInsuranceFees": 10065
+        },
+        {
+            "level": "8",
+            "minAmount": 114000,
+            "maxAmount": 122000,
+            "healthInsuranceFeesUnder40": 5764.3,
+            "healthInsuranceFeesOver40": 6708.3,
+            "pensionInsuranceFees": 10797
+        },
+        {
+            "level": "9",
+            "minAmount": 122000,
+            "maxAmount": 130000,
+            "healthInsuranceFeesUnder40": 6155.1,
+            "healthInsuranceFeesOver40": 7163.1,
+            "pensionInsuranceFees": 11529
+        },
+        {
+            "level": "10",
+            "minAmount": 130000,
+            "maxAmount": 138000,
+            "healthInsuranceFeesUnder40": 6545.9,
+            "healthInsuranceFeesOver40": 7617.9,
+            "pensionInsuranceFees": 12261
+        },
+        {
+            "level": "11",
+            "minAmount": 138000,
+            "maxAmount": 146000,
+            "healthInsuranceFeesUnder40": 6936.7,
+            "healthInsuranceFeesOver40": 8072.7,
+            "pensionInsuranceFees": 12993
+        },
+        {
+            "level": "12",
+            "minAmount": 146000,
+            "maxAmount": 155000,
+            "healthInsuranceFeesUnder40": 7327.5,
+            "healthInsuranceFeesOver40": 8527.5,
+            "pensionInsuranceFees": 13725
+        },
+        {
+            "level": "13",
+            "minAmount": 155000,
+            "maxAmount": 165000,
+            "healthInsuranceFeesUnder40": 7816,
+            "healthInsuranceFeesOver40": 9096,
+            "pensionInsuranceFees": 14640
+        },
+        {
+            "level": "14",
+            "minAmount": 165000,
+            "maxAmount": 175000,
+            "healthInsuranceFeesUnder40": 8304.5,
+            "healthInsuranceFeesOver40": 9664.5,
+            "pensionInsuranceFees": 15555
+        },
+        {
+            "level": "15",
+            "minAmount": 175000,
+            "maxAmount": 185000,
+            "healthInsuranceFeesUnder40": 8793,
+            "healthInsuranceFeesOver40": 10233,
+            "pensionInsuranceFees": 16470
+        },
+        {
+            "level": "16",
+            "minAmount": 185000,
+            "maxAmount": 195000,
+            "healthInsuranceFeesUnder40": 9281.5,
+            "healthInsuranceFeesOver40": 10801.5,
+            "pensionInsuranceFees": 17385
+        },
+        {
+            "level": "17",
+            "minAmount": 195000,
+            "maxAmount": 210000,
+            "healthInsuranceFeesUnder40": 9770,
+            "healthInsuranceFeesOver40": 11370,
+            "pensionInsuranceFees": 18300
+        },
+        {
+            "level": "18",
+            "minAmount": 210000,
+            "maxAmount": 230000,
+            "healthInsuranceFeesUnder40": 10747,
+            "healthInsuranceFeesOver40": 12507,
+            "pensionInsuranceFees": 20130
+        },
+        {
+            "level": "19",
+            "minAmount": 230000,
+            "maxAmount": 250000,
+            "healthInsuranceFeesUnder40": 11724,
+            "healthInsuranceFeesOver40": 13644,
+            "pensionInsuranceFees": 21960
+        },
+        {
+            "level": "20",
+            "minAmount": 250000,
+            "maxAmount": 270000,
+            "healthInsuranceFeesUnder40": 12701,
+            "healthInsuranceFeesOver40": 14781,
+            "pensionInsuranceFees": 23790
+        },
+        {
+            "level": "21",
+            "minAmount": 270000,
+            "maxAmount": 290000,
+            "healthInsuranceFeesUnder40": 13678,
+            "healthInsuranceFeesOver40": 15918,
+            "pensionInsuranceFees": 25620
+        },
+        {
+            "level": "22",
+            "minAmount": 290000,
+            "maxAmount": 310000,
+            "healthInsuranceFeesUnder40": 14655,
+            "healthInsuranceFeesOver40": 17055,
+            "pensionInsuranceFees": 27450
+        },
+        {
+            "level": "23",
+            "minAmount": 310000,
+            "maxAmount": 330000,
+            "healthInsuranceFeesUnder40": 15632,
+            "healthInsuranceFeesOver40": 18192,
+            "pensionInsuranceFees": 29280
+        },
+        {
+            "level": "24",
+            "minAmount": 330000,
+            "maxAmount": 350000,
+            "healthInsuranceFeesUnder40": 16609,
+            "healthInsuranceFeesOver40": 19329,
+            "pensionInsuranceFees": 31110
+        },
+        {
+            "level": "25",
+            "minAmount": 350000,
+            "maxAmount": 370000,
+            "healthInsuranceFeesUnder40": 17586,
+            "healthInsuranceFeesOver40": 20466,
+            "pensionInsuranceFees": 32940
+        },
+        {
+            "level": "26",
+            "minAmount": 370000,
+            "maxAmount": 395000,
+            "healthInsuranceFeesUnder40": 18563,
+            "healthInsuranceFeesOver40": 21603,
+            "pensionInsuranceFees": 34770
+        },
+        {
+            "level": "27",
+            "minAmount": 395000,
+            "maxAmount": 425000,
+            "healthInsuranceFeesUnder40": 20028.5,
+            "healthInsuranceFeesOver40": 23308.5,
+            "pensionInsuranceFees": 37515
+        },
+        {
+            "level": "28",
+            "minAmount": 425000,
+            "maxAmount": 455000,
+            "healthInsuranceFeesUnder40": 21494,
+            "healthInsuranceFeesOver40": 25014,
+            "pensionInsuranceFees": 40260
+        },
+        {
+            "level": "29",
+            "minAmount": 455000,
+            "maxAmount": 485000,
+            "healthInsuranceFeesUnder40": 22959.5,
+            "healthInsuranceFeesOver40": 26719.5,
+            "pensionInsuranceFees": 43005
+        },
+        {
+            "level": "30",
+            "minAmount": 485000,
+            "maxAmount": 515000,
+            "healthInsuranceFeesUnder40": 24425,
+            "healthInsuranceFeesOver40": 28425,
+            "pensionInsuranceFees": 45750
+        },
+        {
+            "level": "31",
+            "minAmount": 515000,
+            "maxAmount": 545000,
+            "healthInsuranceFeesUnder40": 25890.5,
+            "healthInsuranceFeesOver40": 30130.5,
+            "pensionInsuranceFees": 48495
+        },
+        {
+            "level": "32",
+            "minAmount": 545000,
+            "maxAmount": 575000,
+            "healthInsuranceFeesUnder40": 27356,
+            "healthInsuranceFeesOver40": 31836,
+            "pensionInsuranceFees": 51240
+        },
+        {
+            "level": "33",
+            "minAmount": 575000,
+            "maxAmount": 605000,
+            "healthInsuranceFeesUnder40": 28821.5,
+            "healthInsuranceFeesOver40": 33541.5,
+            "pensionInsuranceFees": 53985
+        },
+        {
+            "level": "34",
+            "minAmount": 605000,
+            "maxAmount": 635000,
+            "healthInsuranceFeesUnder40": 30287,
+            "healthInsuranceFeesOver40": 35247,
+            "pensionInsuranceFees": 56730
+        },
+        {
+            "level": "35",
+            "minAmount": 635000,
+            "maxAmount": 665000,
+            "healthInsuranceFeesUnder40": 31752.5,
+            "healthInsuranceFeesOver40": 36952.5,
+            "pensionInsuranceFees": 59475
+        },
+        {
+            "level": 36,
+            "minAmount": 665000,
+            "maxAmount": 695000,
+            "healthInsuranceFeesUnder40": 33218,
+            "healthInsuranceFeesOver40": 38658,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 37,
+            "minAmount": 695000,
+            "maxAmount": 730000,
+            "healthInsuranceFeesUnder40": 34683.5,
+            "healthInsuranceFeesOver40": 40363.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 38,
+            "minAmount": 730000,
+            "maxAmount": 770000,
+            "healthInsuranceFeesUnder40": 36637.5,
+            "healthInsuranceFeesOver40": 42637.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 39,
+            "minAmount": 770000,
+            "maxAmount": 810000,
+            "healthInsuranceFeesUnder40": 38591.5,
+            "healthInsuranceFeesOver40": 44911.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 40,
+            "minAmount": 810000,
+            "maxAmount": 855000,
+            "healthInsuranceFeesUnder40": 40545.5,
+            "healthInsuranceFeesOver40": 47185.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 41,
+            "minAmount": 855000,
+            "maxAmount": 905000,
+            "healthInsuranceFeesUnder40": 42988,
+            "healthInsuranceFeesOver40": 50028,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 42,
+            "minAmount": 905000,
+            "maxAmount": 955000,
+            "healthInsuranceFeesUnder40": 45430.5,
+            "healthInsuranceFeesOver40": 52870.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 43,
+            "minAmount": 955000,
+            "maxAmount": 1005000,
+            "healthInsuranceFeesUnder40": 47873,
+            "healthInsuranceFeesOver40": 55713,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 44,
+            "minAmount": 1005000,
+            "maxAmount": 1055000,
+            "healthInsuranceFeesUnder40": 50315.5,
+            "healthInsuranceFeesOver40": 58555.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 45,
+            "minAmount": 1055000,
+            "maxAmount": 1115000,
+            "healthInsuranceFeesUnder40": 53246.5,
+            "healthInsuranceFeesOver40": 61966.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 46,
+            "minAmount": 1115000,
+            "maxAmount": 1175000,
+            "healthInsuranceFeesUnder40": 56177.5,
+            "healthInsuranceFeesOver40": 65377.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 47,
+            "minAmount": 1175000,
+            "maxAmount": 1235000,
+            "healthInsuranceFeesUnder40": 59108.5,
+            "healthInsuranceFeesOver40": 68788.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 48,
+            "minAmount": 1235000,
+            "maxAmount": 1295000,
+            "healthInsuranceFeesUnder40": 62039.5,
+            "healthInsuranceFeesOver40": 72199.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 49,
+            "minAmount": 1295000,
+            "maxAmount": 1355000,
+            "healthInsuranceFeesUnder40": 64970.5,
+            "healthInsuranceFeesOver40": 75610.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 50,
+            "minAmount": 1355000,
+            "maxAmount": null,
+            "healthInsuranceFeesUnder40": 67901.5,
+            "healthInsuranceFeesOver40": 79021.5,
+            "pensionInsuranceFees": null
+        }
+    ],
+    "\u795e\u5948\u5ddd": [
+        {
+            "level": 1,
+            "minAmount": null,
+            "maxAmount": 63000,
+            "healthInsuranceFeesUnder40": 2905.8,
+            "healthInsuranceFeesOver40": 3369.8,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 2,
+            "minAmount": 63000,
+            "maxAmount": 73000,
+            "healthInsuranceFeesUnder40": 3406.8,
+            "healthInsuranceFeesOver40": 3950.8,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 3,
+            "minAmount": 73000,
+            "maxAmount": 83000,
+            "healthInsuranceFeesUnder40": 3907.8,
+            "healthInsuranceFeesOver40": 4531.8,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": "4",
+            "minAmount": 83000,
+            "maxAmount": 93000,
+            "healthInsuranceFeesUnder40": 4408.8,
+            "healthInsuranceFeesOver40": 5112.8,
+            "pensionInsuranceFees": 8052
+        },
+        {
+            "level": "5",
+            "minAmount": 93000,
+            "maxAmount": 101000,
+            "healthInsuranceFeesUnder40": 4909.8,
+            "healthInsuranceFeesOver40": 5693.8,
+            "pensionInsuranceFees": 8967
+        },
+        {
+            "level": "6",
+            "minAmount": 101000,
+            "maxAmount": 107000,
+            "healthInsuranceFeesUnder40": 5210.4,
+            "healthInsuranceFeesOver40": 6042.4,
+            "pensionInsuranceFees": 9516
+        },
+        {
+            "level": "7",
+            "minAmount": 107000,
+            "maxAmount": 114000,
+            "healthInsuranceFeesUnder40": 5511,
+            "healthInsuranceFeesOver40": 6391,
+            "pensionInsuranceFees": 10065
+        },
+        {
+            "level": "8",
+            "minAmount": 114000,
+            "maxAmount": 122000,
+            "healthInsuranceFeesUnder40": 5911.8,
+            "healthInsuranceFeesOver40": 6855.8,
+            "pensionInsuranceFees": 10797
+        },
+        {
+            "level": "9",
+            "minAmount": 122000,
+            "maxAmount": 130000,
+            "healthInsuranceFeesUnder40": 6312.6,
+            "healthInsuranceFeesOver40": 7320.6,
+            "pensionInsuranceFees": 11529
+        },
+        {
+            "level": "10",
+            "minAmount": 130000,
+            "maxAmount": 138000,
+            "healthInsuranceFeesUnder40": 6713.4,
+            "healthInsuranceFeesOver40": 7785.4,
+            "pensionInsuranceFees": 12261
+        },
+        {
+            "level": "11",
+            "minAmount": 138000,
+            "maxAmount": 146000,
+            "healthInsuranceFeesUnder40": 7114.2,
+            "healthInsuranceFeesOver40": 8250.2,
+            "pensionInsuranceFees": 12993
+        },
+        {
+            "level": "12",
+            "minAmount": 146000,
+            "maxAmount": 155000,
+            "healthInsuranceFeesUnder40": 7515,
+            "healthInsuranceFeesOver40": 8715,
+            "pensionInsuranceFees": 13725
+        },
+        {
+            "level": "13",
+            "minAmount": 155000,
+            "maxAmount": 165000,
+            "healthInsuranceFeesUnder40": 8016,
+            "healthInsuranceFeesOver40": 9296,
+            "pensionInsuranceFees": 14640
+        },
+        {
+            "level": "14",
+            "minAmount": 165000,
+            "maxAmount": 175000,
+            "healthInsuranceFeesUnder40": 8517,
+            "healthInsuranceFeesOver40": 9877,
+            "pensionInsuranceFees": 15555
+        },
+        {
+            "level": "15",
+            "minAmount": 175000,
+            "maxAmount": 185000,
+            "healthInsuranceFeesUnder40": 9018,
+            "healthInsuranceFeesOver40": 10458,
+            "pensionInsuranceFees": 16470
+        },
+        {
+            "level": "16",
+            "minAmount": 185000,
+            "maxAmount": 195000,
+            "healthInsuranceFeesUnder40": 9519,
+            "healthInsuranceFeesOver40": 11039,
+            "pensionInsuranceFees": 17385
+        },
+        {
+            "level": "17",
+            "minAmount": 195000,
+            "maxAmount": 210000,
+            "healthInsuranceFeesUnder40": 10020,
+            "healthInsuranceFeesOver40": 11620,
+            "pensionInsuranceFees": 18300
+        },
+        {
+            "level": "18",
+            "minAmount": 210000,
+            "maxAmount": 230000,
+            "healthInsuranceFeesUnder40": 11022,
+            "healthInsuranceFeesOver40": 12782,
+            "pensionInsuranceFees": 20130
+        },
+        {
+            "level": "19",
+            "minAmount": 230000,
+            "maxAmount": 250000,
+            "healthInsuranceFeesUnder40": 12024,
+            "healthInsuranceFeesOver40": 13944,
+            "pensionInsuranceFees": 21960
+        },
+        {
+            "level": "20",
+            "minAmount": 250000,
+            "maxAmount": 270000,
+            "healthInsuranceFeesUnder40": 13026,
+            "healthInsuranceFeesOver40": 15106,
+            "pensionInsuranceFees": 23790
+        },
+        {
+            "level": "21",
+            "minAmount": 270000,
+            "maxAmount": 290000,
+            "healthInsuranceFeesUnder40": 14028,
+            "healthInsuranceFeesOver40": 16268,
+            "pensionInsuranceFees": 25620
+        },
+        {
+            "level": "22",
+            "minAmount": 290000,
+            "maxAmount": 310000,
+            "healthInsuranceFeesUnder40": 15030,
+            "healthInsuranceFeesOver40": 17430,
+            "pensionInsuranceFees": 27450
+        },
+        {
+            "level": "23",
+            "minAmount": 310000,
+            "maxAmount": 330000,
+            "healthInsuranceFeesUnder40": 16032,
+            "healthInsuranceFeesOver40": 18592,
+            "pensionInsuranceFees": 29280
+        },
+        {
+            "level": "24",
+            "minAmount": 330000,
+            "maxAmount": 350000,
+            "healthInsuranceFeesUnder40": 17034,
+            "healthInsuranceFeesOver40": 19754,
+            "pensionInsuranceFees": 31110
+        },
+        {
+            "level": "25",
+            "minAmount": 350000,
+            "maxAmount": 370000,
+            "healthInsuranceFeesUnder40": 18036,
+            "healthInsuranceFeesOver40": 20916,
+            "pensionInsuranceFees": 32940
+        },
+        {
+            "level": "26",
+            "minAmount": 370000,
+            "maxAmount": 395000,
+            "healthInsuranceFeesUnder40": 19038,
+            "healthInsuranceFeesOver40": 22078,
+            "pensionInsuranceFees": 34770
+        },
+        {
+            "level": "27",
+            "minAmount": 395000,
+            "maxAmount": 425000,
+            "healthInsuranceFeesUnder40": 20541,
+            "healthInsuranceFeesOver40": 23821,
+            "pensionInsuranceFees": 37515
+        },
+        {
+            "level": "28",
+            "minAmount": 425000,
+            "maxAmount": 455000,
+            "healthInsuranceFeesUnder40": 22044,
+            "healthInsuranceFeesOver40": 25564,
+            "pensionInsuranceFees": 40260
+        },
+        {
+            "level": "29",
+            "minAmount": 455000,
+            "maxAmount": 485000,
+            "healthInsuranceFeesUnder40": 23547,
+            "healthInsuranceFeesOver40": 27307,
+            "pensionInsuranceFees": 43005
+        },
+        {
+            "level": "30",
+            "minAmount": 485000,
+            "maxAmount": 515000,
+            "healthInsuranceFeesUnder40": 25050,
+            "healthInsuranceFeesOver40": 29050,
+            "pensionInsuranceFees": 45750
+        },
+        {
+            "level": "31",
+            "minAmount": 515000,
+            "maxAmount": 545000,
+            "healthInsuranceFeesUnder40": 26553,
+            "healthInsuranceFeesOver40": 30793,
+            "pensionInsuranceFees": 48495
+        },
+        {
+            "level": "32",
+            "minAmount": 545000,
+            "maxAmount": 575000,
+            "healthInsuranceFeesUnder40": 28056,
+            "healthInsuranceFeesOver40": 32536,
+            "pensionInsuranceFees": 51240
+        },
+        {
+            "level": "33",
+            "minAmount": 575000,
+            "maxAmount": 605000,
+            "healthInsuranceFeesUnder40": 29559,
+            "healthInsuranceFeesOver40": 34279,
+            "pensionInsuranceFees": 53985
+        },
+        {
+            "level": "34",
+            "minAmount": 605000,
+            "maxAmount": 635000,
+            "healthInsuranceFeesUnder40": 31062,
+            "healthInsuranceFeesOver40": 36022,
+            "pensionInsuranceFees": 56730
+        },
+        {
+            "level": "35",
+            "minAmount": 635000,
+            "maxAmount": 665000,
+            "healthInsuranceFeesUnder40": 32565,
+            "healthInsuranceFeesOver40": 37765,
+            "pensionInsuranceFees": 59475
+        },
+        {
+            "level": 36,
+            "minAmount": 665000,
+            "maxAmount": 695000,
+            "healthInsuranceFeesUnder40": 34068,
+            "healthInsuranceFeesOver40": 39508,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 37,
+            "minAmount": 695000,
+            "maxAmount": 730000,
+            "healthInsuranceFeesUnder40": 35571,
+            "healthInsuranceFeesOver40": 41251,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 38,
+            "minAmount": 730000,
+            "maxAmount": 770000,
+            "healthInsuranceFeesUnder40": 37575,
+            "healthInsuranceFeesOver40": 43575,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 39,
+            "minAmount": 770000,
+            "maxAmount": 810000,
+            "healthInsuranceFeesUnder40": 39579,
+            "healthInsuranceFeesOver40": 45899,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 40,
+            "minAmount": 810000,
+            "maxAmount": 855000,
+            "healthInsuranceFeesUnder40": 41583,
+            "healthInsuranceFeesOver40": 48223,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 41,
+            "minAmount": 855000,
+            "maxAmount": 905000,
+            "healthInsuranceFeesUnder40": 44088,
+            "healthInsuranceFeesOver40": 51128,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 42,
+            "minAmount": 905000,
+            "maxAmount": 955000,
+            "healthInsuranceFeesUnder40": 46593,
+            "healthInsuranceFeesOver40": 54033,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 43,
+            "minAmount": 955000,
+            "maxAmount": 1005000,
+            "healthInsuranceFeesUnder40": 49098,
+            "healthInsuranceFeesOver40": 56938,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 44,
+            "minAmount": 1005000,
+            "maxAmount": 1055000,
+            "healthInsuranceFeesUnder40": 51603,
+            "healthInsuranceFeesOver40": 59843,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 45,
+            "minAmount": 1055000,
+            "maxAmount": 1115000,
+            "healthInsuranceFeesUnder40": 54609,
+            "healthInsuranceFeesOver40": 63329,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 46,
+            "minAmount": 1115000,
+            "maxAmount": 1175000,
+            "healthInsuranceFeesUnder40": 57615,
+            "healthInsuranceFeesOver40": 66815,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 47,
+            "minAmount": 1175000,
+            "maxAmount": 1235000,
+            "healthInsuranceFeesUnder40": 60621,
+            "healthInsuranceFeesOver40": 70301,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 48,
+            "minAmount": 1235000,
+            "maxAmount": 1295000,
+            "healthInsuranceFeesUnder40": 63627,
+            "healthInsuranceFeesOver40": 73787,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 49,
+            "minAmount": 1295000,
+            "maxAmount": 1355000,
+            "healthInsuranceFeesUnder40": 66633,
+            "healthInsuranceFeesOver40": 77273,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 50,
+            "minAmount": 1355000,
+            "maxAmount": null,
+            "healthInsuranceFeesUnder40": 69639,
+            "healthInsuranceFeesOver40": 80759,
+            "pensionInsuranceFees": null
+        }
+    ],
+    "\u57fc\u7389": [
+        {
+            "level": 1,
+            "minAmount": null,
+            "maxAmount": 63000,
+            "healthInsuranceFeesUnder40": 2836.2,
+            "healthInsuranceFeesOver40": 3300.2,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 2,
+            "minAmount": 63000,
+            "maxAmount": 73000,
+            "healthInsuranceFeesUnder40": 3325.2,
+            "healthInsuranceFeesOver40": 3869.2,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 3,
+            "minAmount": 73000,
+            "maxAmount": 83000,
+            "healthInsuranceFeesUnder40": 3814.2,
+            "healthInsuranceFeesOver40": 4438.2,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": "4",
+            "minAmount": 83000,
+            "maxAmount": 93000,
+            "healthInsuranceFeesUnder40": 4303.2,
+            "healthInsuranceFeesOver40": 5007.2,
+            "pensionInsuranceFees": 8052
+        },
+        {
+            "level": "5",
+            "minAmount": 93000,
+            "maxAmount": 101000,
+            "healthInsuranceFeesUnder40": 4792.2,
+            "healthInsuranceFeesOver40": 5576.2,
+            "pensionInsuranceFees": 8967
+        },
+        {
+            "level": "6",
+            "minAmount": 101000,
+            "maxAmount": 107000,
+            "healthInsuranceFeesUnder40": 5085.6,
+            "healthInsuranceFeesOver40": 5917.6,
+            "pensionInsuranceFees": 9516
+        },
+        {
+            "level": "7",
+            "minAmount": 107000,
+            "maxAmount": 114000,
+            "healthInsuranceFeesUnder40": 5379,
+            "healthInsuranceFeesOver40": 6259,
+            "pensionInsuranceFees": 10065
+        },
+        {
+            "level": "8",
+            "minAmount": 114000,
+            "maxAmount": 122000,
+            "healthInsuranceFeesUnder40": 5770.2,
+            "healthInsuranceFeesOver40": 6714.2,
+            "pensionInsuranceFees": 10797
+        },
+        {
+            "level": "9",
+            "minAmount": 122000,
+            "maxAmount": 130000,
+            "healthInsuranceFeesUnder40": 6161.4,
+            "healthInsuranceFeesOver40": 7169.4,
+            "pensionInsuranceFees": 11529
+        },
+        {
+            "level": "10",
+            "minAmount": 130000,
+            "maxAmount": 138000,
+            "healthInsuranceFeesUnder40": 6552.6,
+            "healthInsuranceFeesOver40": 7624.6,
+            "pensionInsuranceFees": 12261
+        },
+        {
+            "level": "11",
+            "minAmount": 138000,
+            "maxAmount": 146000,
+            "healthInsuranceFeesUnder40": 6943.8,
+            "healthInsuranceFeesOver40": 8079.8,
+            "pensionInsuranceFees": 12993
+        },
+        {
+            "level": "12",
+            "minAmount": 146000,
+            "maxAmount": 155000,
+            "healthInsuranceFeesUnder40": 7335,
+            "healthInsuranceFeesOver40": 8535,
+            "pensionInsuranceFees": 13725
+        },
+        {
+            "level": "13",
+            "minAmount": 155000,
+            "maxAmount": 165000,
+            "healthInsuranceFeesUnder40": 7824,
+            "healthInsuranceFeesOver40": 9104,
+            "pensionInsuranceFees": 14640
+        },
+        {
+            "level": "14",
+            "minAmount": 165000,
+            "maxAmount": 175000,
+            "healthInsuranceFeesUnder40": 8313,
+            "healthInsuranceFeesOver40": 9673,
+            "pensionInsuranceFees": 15555
+        },
+        {
+            "level": "15",
+            "minAmount": 175000,
+            "maxAmount": 185000,
+            "healthInsuranceFeesUnder40": 8802,
+            "healthInsuranceFeesOver40": 10242,
+            "pensionInsuranceFees": 16470
+        },
+        {
+            "level": "16",
+            "minAmount": 185000,
+            "maxAmount": 195000,
+            "healthInsuranceFeesUnder40": 9291,
+            "healthInsuranceFeesOver40": 10811,
+            "pensionInsuranceFees": 17385
+        },
+        {
+            "level": "17",
+            "minAmount": 195000,
+            "maxAmount": 210000,
+            "healthInsuranceFeesUnder40": 9780,
+            "healthInsuranceFeesOver40": 11380,
+            "pensionInsuranceFees": 18300
+        },
+        {
+            "level": "18",
+            "minAmount": 210000,
+            "maxAmount": 230000,
+            "healthInsuranceFeesUnder40": 10758,
+            "healthInsuranceFeesOver40": 12518,
+            "pensionInsuranceFees": 20130
+        },
+        {
+            "level": "19",
+            "minAmount": 230000,
+            "maxAmount": 250000,
+            "healthInsuranceFeesUnder40": 11736,
+            "healthInsuranceFeesOver40": 13656,
+            "pensionInsuranceFees": 21960
+        },
+        {
+            "level": "20",
+            "minAmount": 250000,
+            "maxAmount": 270000,
+            "healthInsuranceFeesUnder40": 12714,
+            "healthInsuranceFeesOver40": 14794,
+            "pensionInsuranceFees": 23790
+        },
+        {
+            "level": "21",
+            "minAmount": 270000,
+            "maxAmount": 290000,
+            "healthInsuranceFeesUnder40": 13692,
+            "healthInsuranceFeesOver40": 15932,
+            "pensionInsuranceFees": 25620
+        },
+        {
+            "level": "22",
+            "minAmount": 290000,
+            "maxAmount": 310000,
+            "healthInsuranceFeesUnder40": 14670,
+            "healthInsuranceFeesOver40": 17070,
+            "pensionInsuranceFees": 27450
+        },
+        {
+            "level": "23",
+            "minAmount": 310000,
+            "maxAmount": 330000,
+            "healthInsuranceFeesUnder40": 15648,
+            "healthInsuranceFeesOver40": 18208,
+            "pensionInsuranceFees": 29280
+        },
+        {
+            "level": "24",
+            "minAmount": 330000,
+            "maxAmount": 350000,
+            "healthInsuranceFeesUnder40": 16626,
+            "healthInsuranceFeesOver40": 19346,
+            "pensionInsuranceFees": 31110
+        },
+        {
+            "level": "25",
+            "minAmount": 350000,
+            "maxAmount": 370000,
+            "healthInsuranceFeesUnder40": 17604,
+            "healthInsuranceFeesOver40": 20484,
+            "pensionInsuranceFees": 32940
+        },
+        {
+            "level": "26",
+            "minAmount": 370000,
+            "maxAmount": 395000,
+            "healthInsuranceFeesUnder40": 18582,
+            "healthInsuranceFeesOver40": 21622,
+            "pensionInsuranceFees": 34770
+        },
+        {
+            "level": "27",
+            "minAmount": 395000,
+            "maxAmount": 425000,
+            "healthInsuranceFeesUnder40": 20049,
+            "healthInsuranceFeesOver40": 23329,
+            "pensionInsuranceFees": 37515
+        },
+        {
+            "level": "28",
+            "minAmount": 425000,
+            "maxAmount": 455000,
+            "healthInsuranceFeesUnder40": 21516,
+            "healthInsuranceFeesOver40": 25036,
+            "pensionInsuranceFees": 40260
+        },
+        {
+            "level": "29",
+            "minAmount": 455000,
+            "maxAmount": 485000,
+            "healthInsuranceFeesUnder40": 22983,
+            "healthInsuranceFeesOver40": 26743,
+            "pensionInsuranceFees": 43005
+        },
+        {
+            "level": "30",
+            "minAmount": 485000,
+            "maxAmount": 515000,
+            "healthInsuranceFeesUnder40": 24450,
+            "healthInsuranceFeesOver40": 28450,
+            "pensionInsuranceFees": 45750
+        },
+        {
+            "level": "31",
+            "minAmount": 515000,
+            "maxAmount": 545000,
+            "healthInsuranceFeesUnder40": 25917,
+            "healthInsuranceFeesOver40": 30157,
+            "pensionInsuranceFees": 48495
+        },
+        {
+            "level": "32",
+            "minAmount": 545000,
+            "maxAmount": 575000,
+            "healthInsuranceFeesUnder40": 27384,
+            "healthInsuranceFeesOver40": 31864,
+            "pensionInsuranceFees": 51240
+        },
+        {
+            "level": "33",
+            "minAmount": 575000,
+            "maxAmount": 605000,
+            "healthInsuranceFeesUnder40": 28851,
+            "healthInsuranceFeesOver40": 33571,
+            "pensionInsuranceFees": 53985
+        },
+        {
+            "level": "34",
+            "minAmount": 605000,
+            "maxAmount": 635000,
+            "healthInsuranceFeesUnder40": 30318,
+            "healthInsuranceFeesOver40": 35278,
+            "pensionInsuranceFees": 56730
+        },
+        {
+            "level": "35",
+            "minAmount": 635000,
+            "maxAmount": 665000,
+            "healthInsuranceFeesUnder40": 31785,
+            "healthInsuranceFeesOver40": 36985,
+            "pensionInsuranceFees": 59475
+        },
+        {
+            "level": 36,
+            "minAmount": 665000,
+            "maxAmount": 695000,
+            "healthInsuranceFeesUnder40": 33252,
+            "healthInsuranceFeesOver40": 38692,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 37,
+            "minAmount": 695000,
+            "maxAmount": 730000,
+            "healthInsuranceFeesUnder40": 34719,
+            "healthInsuranceFeesOver40": 40399,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 38,
+            "minAmount": 730000,
+            "maxAmount": 770000,
+            "healthInsuranceFeesUnder40": 36675,
+            "healthInsuranceFeesOver40": 42675,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 39,
+            "minAmount": 770000,
+            "maxAmount": 810000,
+            "healthInsuranceFeesUnder40": 38631,
+            "healthInsuranceFeesOver40": 44951,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 40,
+            "minAmount": 810000,
+            "maxAmount": 855000,
+            "healthInsuranceFeesUnder40": 40587,
+            "healthInsuranceFeesOver40": 47227,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 41,
+            "minAmount": 855000,
+            "maxAmount": 905000,
+            "healthInsuranceFeesUnder40": 43032,
+            "healthInsuranceFeesOver40": 50072,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 42,
+            "minAmount": 905000,
+            "maxAmount": 955000,
+            "healthInsuranceFeesUnder40": 45477,
+            "healthInsuranceFeesOver40": 52917,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 43,
+            "minAmount": 955000,
+            "maxAmount": 1005000,
+            "healthInsuranceFeesUnder40": 47922,
+            "healthInsuranceFeesOver40": 55762,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 44,
+            "minAmount": 1005000,
+            "maxAmount": 1055000,
+            "healthInsuranceFeesUnder40": 50367,
+            "healthInsuranceFeesOver40": 58607,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 45,
+            "minAmount": 1055000,
+            "maxAmount": 1115000,
+            "healthInsuranceFeesUnder40": 53301,
+            "healthInsuranceFeesOver40": 62021,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 46,
+            "minAmount": 1115000,
+            "maxAmount": 1175000,
+            "healthInsuranceFeesUnder40": 56235,
+            "healthInsuranceFeesOver40": 65435,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 47,
+            "minAmount": 1175000,
+            "maxAmount": 1235000,
+            "healthInsuranceFeesUnder40": 59169,
+            "healthInsuranceFeesOver40": 68849,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 48,
+            "minAmount": 1235000,
+            "maxAmount": 1295000,
+            "healthInsuranceFeesUnder40": 62103,
+            "healthInsuranceFeesOver40": 72263,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 49,
+            "minAmount": 1295000,
+            "maxAmount": 1355000,
+            "healthInsuranceFeesUnder40": 65037,
+            "healthInsuranceFeesOver40": 75677,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 50,
+            "minAmount": 1355000,
+            "maxAmount": null,
+            "healthInsuranceFeesUnder40": 67971,
+            "healthInsuranceFeesOver40": 79091,
+            "pensionInsuranceFees": null
+        }
+    ],
+    "\u9752\u68ee": [
+        {
+            "level": 1,
+            "minAmount": null,
+            "maxAmount": 63000,
+            "healthInsuranceFeesUnder40": 2752.1,
+            "healthInsuranceFeesOver40": 3216.1,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 2,
+            "minAmount": 63000,
+            "maxAmount": 73000,
+            "healthInsuranceFeesUnder40": 3226.6,
+            "healthInsuranceFeesOver40": 3770.6,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 3,
+            "minAmount": 73000,
+            "maxAmount": 83000,
+            "healthInsuranceFeesUnder40": 3701.1,
+            "healthInsuranceFeesOver40": 4325.1,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": "4",
+            "minAmount": 83000,
+            "maxAmount": 93000,
+            "healthInsuranceFeesUnder40": 4175.6,
+            "healthInsuranceFeesOver40": 4879.6,
+            "pensionInsuranceFees": 8052
+        },
+        {
+            "level": "5",
+            "minAmount": 93000,
+            "maxAmount": 101000,
+            "healthInsuranceFeesUnder40": 4650.1,
+            "healthInsuranceFeesOver40": 5434.1,
+            "pensionInsuranceFees": 8967
+        },
+        {
+            "level": "6",
+            "minAmount": 101000,
+            "maxAmount": 107000,
+            "healthInsuranceFeesUnder40": 4934.8,
+            "healthInsuranceFeesOver40": 5766.8,
+            "pensionInsuranceFees": 9516
+        },
+        {
+            "level": "7",
+            "minAmount": 107000,
+            "maxAmount": 114000,
+            "healthInsuranceFeesUnder40": 5219.5,
+            "healthInsuranceFeesOver40": 6099.5,
+            "pensionInsuranceFees": 10065
+        },
+        {
+            "level": "8",
+            "minAmount": 114000,
+            "maxAmount": 122000,
+            "healthInsuranceFeesUnder40": 5599.1,
+            "healthInsuranceFeesOver40": 6543.1,
+            "pensionInsuranceFees": 10797
+        },
+        {
+            "level": "9",
+            "minAmount": 122000,
+            "maxAmount": 130000,
+            "healthInsuranceFeesUnder40": 5978.7,
+            "healthInsuranceFeesOver40": 6986.7,
+            "pensionInsuranceFees": 11529
+        },
+        {
+            "level": "10",
+            "minAmount": 130000,
+            "maxAmount": 138000,
+            "healthInsuranceFeesUnder40": 6358.3,
+            "healthInsuranceFeesOver40": 7430.3,
+            "pensionInsuranceFees": 12261
+        },
+        {
+            "level": "11",
+            "minAmount": 138000,
+            "maxAmount": 146000,
+            "healthInsuranceFeesUnder40": 6737.9,
+            "healthInsuranceFeesOver40": 7873.9,
+            "pensionInsuranceFees": 12993
+        },
+        {
+            "level": "12",
+            "minAmount": 146000,
+            "maxAmount": 155000,
+            "healthInsuranceFeesUnder40": 7117.5,
+            "healthInsuranceFeesOver40": 8317.5,
+            "pensionInsuranceFees": 13725
+        },
+        {
+            "level": "13",
+            "minAmount": 155000,
+            "maxAmount": 165000,
+            "healthInsuranceFeesUnder40": 7592,
+            "healthInsuranceFeesOver40": 8872,
+            "pensionInsuranceFees": 14640
+        },
+        {
+            "level": "14",
+            "minAmount": 165000,
+            "maxAmount": 175000,
+            "healthInsuranceFeesUnder40": 8066.5,
+            "healthInsuranceFeesOver40": 9426.5,
+            "pensionInsuranceFees": 15555
+        },
+        {
+            "level": "15",
+            "minAmount": 175000,
+            "maxAmount": 185000,
+            "healthInsuranceFeesUnder40": 8541,
+            "healthInsuranceFeesOver40": 9981,
+            "pensionInsuranceFees": 16470
+        },
+        {
+            "level": "16",
+            "minAmount": 185000,
+            "maxAmount": 195000,
+            "healthInsuranceFeesUnder40": 9015.5,
+            "healthInsuranceFeesOver40": 10535.5,
+            "pensionInsuranceFees": 17385
+        },
+        {
+            "level": "17",
+            "minAmount": 195000,
+            "maxAmount": 210000,
+            "healthInsuranceFeesUnder40": 9490,
+            "healthInsuranceFeesOver40": 11090,
+            "pensionInsuranceFees": 18300
+        },
+        {
+            "level": "18",
+            "minAmount": 210000,
+            "maxAmount": 230000,
+            "healthInsuranceFeesUnder40": 10439,
+            "healthInsuranceFeesOver40": 12199,
+            "pensionInsuranceFees": 20130
+        },
+        {
+            "level": "19",
+            "minAmount": 230000,
+            "maxAmount": 250000,
+            "healthInsuranceFeesUnder40": 11388,
+            "healthInsuranceFeesOver40": 13308,
+            "pensionInsuranceFees": 21960
+        },
+        {
+            "level": "20",
+            "minAmount": 250000,
+            "maxAmount": 270000,
+            "healthInsuranceFeesUnder40": 12337,
+            "healthInsuranceFeesOver40": 14417,
+            "pensionInsuranceFees": 23790
+        },
+        {
+            "level": "21",
+            "minAmount": 270000,
+            "maxAmount": 290000,
+            "healthInsuranceFeesUnder40": 13286,
+            "healthInsuranceFeesOver40": 15526,
+            "pensionInsuranceFees": 25620
+        },
+        {
+            "level": "22",
+            "minAmount": 290000,
+            "maxAmount": 310000,
+            "healthInsuranceFeesUnder40": 14235,
+            "healthInsuranceFeesOver40": 16635,
+            "pensionInsuranceFees": 27450
+        },
+        {
+            "level": "23",
+            "minAmount": 310000,
+            "maxAmount": 330000,
+            "healthInsuranceFeesUnder40": 15184,
+            "healthInsuranceFeesOver40": 17744,
+            "pensionInsuranceFees": 29280
+        },
+        {
+            "level": "24",
+            "minAmount": 330000,
+            "maxAmount": 350000,
+            "healthInsuranceFeesUnder40": 16133,
+            "healthInsuranceFeesOver40": 18853,
+            "pensionInsuranceFees": 31110
+        },
+        {
+            "level": "25",
+            "minAmount": 350000,
+            "maxAmount": 370000,
+            "healthInsuranceFeesUnder40": 17082,
+            "healthInsuranceFeesOver40": 19962,
+            "pensionInsuranceFees": 32940
+        },
+        {
+            "level": "26",
+            "minAmount": 370000,
+            "maxAmount": 395000,
+            "healthInsuranceFeesUnder40": 18031,
+            "healthInsuranceFeesOver40": 21071,
+            "pensionInsuranceFees": 34770
+        },
+        {
+            "level": "27",
+            "minAmount": 395000,
+            "maxAmount": 425000,
+            "healthInsuranceFeesUnder40": 19454.5,
+            "healthInsuranceFeesOver40": 22734.5,
+            "pensionInsuranceFees": 37515
+        },
+        {
+            "level": "28",
+            "minAmount": 425000,
+            "maxAmount": 455000,
+            "healthInsuranceFeesUnder40": 20878,
+            "healthInsuranceFeesOver40": 24398,
+            "pensionInsuranceFees": 40260
+        },
+        {
+            "level": "29",
+            "minAmount": 455000,
+            "maxAmount": 485000,
+            "healthInsuranceFeesUnder40": 22301.5,
+            "healthInsuranceFeesOver40": 26061.5,
+            "pensionInsuranceFees": 43005
+        },
+        {
+            "level": "30",
+            "minAmount": 485000,
+            "maxAmount": 515000,
+            "healthInsuranceFeesUnder40": 23725,
+            "healthInsuranceFeesOver40": 27725,
+            "pensionInsuranceFees": 45750
+        },
+        {
+            "level": "31",
+            "minAmount": 515000,
+            "maxAmount": 545000,
+            "healthInsuranceFeesUnder40": 25148.5,
+            "healthInsuranceFeesOver40": 29388.5,
+            "pensionInsuranceFees": 48495
+        },
+        {
+            "level": "32",
+            "minAmount": 545000,
+            "maxAmount": 575000,
+            "healthInsuranceFeesUnder40": 26572,
+            "healthInsuranceFeesOver40": 31052,
+            "pensionInsuranceFees": 51240
+        },
+        {
+            "level": "33",
+            "minAmount": 575000,
+            "maxAmount": 605000,
+            "healthInsuranceFeesUnder40": 27995.5,
+            "healthInsuranceFeesOver40": 32715.5,
+            "pensionInsuranceFees": 53985
+        },
+        {
+            "level": "34",
+            "minAmount": 605000,
+            "maxAmount": 635000,
+            "healthInsuranceFeesUnder40": 29419,
+            "healthInsuranceFeesOver40": 34379,
+            "pensionInsuranceFees": 56730
+        },
+        {
+            "level": "35",
+            "minAmount": 635000,
+            "maxAmount": 665000,
+            "healthInsuranceFeesUnder40": 30842.5,
+            "healthInsuranceFeesOver40": 36042.5,
+            "pensionInsuranceFees": 59475
+        },
+        {
+            "level": 36,
+            "minAmount": 665000,
+            "maxAmount": 695000,
+            "healthInsuranceFeesUnder40": 32266,
+            "healthInsuranceFeesOver40": 37706,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 37,
+            "minAmount": 695000,
+            "maxAmount": 730000,
+            "healthInsuranceFeesUnder40": 33689.5,
+            "healthInsuranceFeesOver40": 39369.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 38,
+            "minAmount": 730000,
+            "maxAmount": 770000,
+            "healthInsuranceFeesUnder40": 35587.5,
+            "healthInsuranceFeesOver40": 41587.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 39,
+            "minAmount": 770000,
+            "maxAmount": 810000,
+            "healthInsuranceFeesUnder40": 37485.5,
+            "healthInsuranceFeesOver40": 43805.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 40,
+            "minAmount": 810000,
+            "maxAmount": 855000,
+            "healthInsuranceFeesUnder40": 39383.5,
+            "healthInsuranceFeesOver40": 46023.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 41,
+            "minAmount": 855000,
+            "maxAmount": 905000,
+            "healthInsuranceFeesUnder40": 41756,
+            "healthInsuranceFeesOver40": 48796,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 42,
+            "minAmount": 905000,
+            "maxAmount": 955000,
+            "healthInsuranceFeesUnder40": 44128.5,
+            "healthInsuranceFeesOver40": 51568.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 43,
+            "minAmount": 955000,
+            "maxAmount": 1005000,
+            "healthInsuranceFeesUnder40": 46501,
+            "healthInsuranceFeesOver40": 54341,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 44,
+            "minAmount": 1005000,
+            "maxAmount": 1055000,
+            "healthInsuranceFeesUnder40": 48873.5,
+            "healthInsuranceFeesOver40": 57113.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 45,
+            "minAmount": 1055000,
+            "maxAmount": 1115000,
+            "healthInsuranceFeesUnder40": 51720.5,
+            "healthInsuranceFeesOver40": 60440.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 46,
+            "minAmount": 1115000,
+            "maxAmount": 1175000,
+            "healthInsuranceFeesUnder40": 54567.5,
+            "healthInsuranceFeesOver40": 63767.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 47,
+            "minAmount": 1175000,
+            "maxAmount": 1235000,
+            "healthInsuranceFeesUnder40": 57414.5,
+            "healthInsuranceFeesOver40": 67094.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 48,
+            "minAmount": 1235000,
+            "maxAmount": 1295000,
+            "healthInsuranceFeesUnder40": 60261.5,
+            "healthInsuranceFeesOver40": 70421.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 49,
+            "minAmount": 1295000,
+            "maxAmount": 1355000,
+            "healthInsuranceFeesUnder40": 63108.5,
+            "healthInsuranceFeesOver40": 73748.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 50,
+            "minAmount": 1355000,
+            "maxAmount": null,
+            "healthInsuranceFeesUnder40": 65955.5,
+            "healthInsuranceFeesOver40": 77075.5,
+            "pensionInsuranceFees": null
+        }
+    ],
+    "\u79cb\u7530": [
+        {
+            "level": 1,
+            "minAmount": null,
+            "maxAmount": 63000,
+            "healthInsuranceFeesUnder40": 2856.5,
+            "healthInsuranceFeesOver40": 3320.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 2,
+            "minAmount": 63000,
+            "maxAmount": 73000,
+            "healthInsuranceFeesUnder40": 3349.0,
+            "healthInsuranceFeesOver40": 3893.0,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 3,
+            "minAmount": 73000,
+            "maxAmount": 83000,
+            "healthInsuranceFeesUnder40": 3841.5,
+            "healthInsuranceFeesOver40": 4465.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": "4",
+            "minAmount": 83000,
+            "maxAmount": 93000,
+            "healthInsuranceFeesUnder40": 4334,
+            "healthInsuranceFeesOver40": 5038,
+            "pensionInsuranceFees": 8052
+        },
+        {
+            "level": "5",
+            "minAmount": 93000,
+            "maxAmount": 101000,
+            "healthInsuranceFeesUnder40": 4826.5,
+            "healthInsuranceFeesOver40": 5610.5,
+            "pensionInsuranceFees": 8967
+        },
+        {
+            "level": "6",
+            "minAmount": 101000,
+            "maxAmount": 107000,
+            "healthInsuranceFeesUnder40": 5122.0,
+            "healthInsuranceFeesOver40": 5954.0,
+            "pensionInsuranceFees": 9516
+        },
+        {
+            "level": "7",
+            "minAmount": 107000,
+            "maxAmount": 114000,
+            "healthInsuranceFeesUnder40": 5417.5,
+            "healthInsuranceFeesOver40": 6297.5,
+            "pensionInsuranceFees": 10065
+        },
+        {
+            "level": "8",
+            "minAmount": 114000,
+            "maxAmount": 122000,
+            "healthInsuranceFeesUnder40": 5811.5,
+            "healthInsuranceFeesOver40": 6755.5,
+            "pensionInsuranceFees": 10797
+        },
+        {
+            "level": "9",
+            "minAmount": 122000,
+            "maxAmount": 130000,
+            "healthInsuranceFeesUnder40": 6205.5,
+            "healthInsuranceFeesOver40": 7213.5,
+            "pensionInsuranceFees": 11529
+        },
+        {
+            "level": "10",
+            "minAmount": 130000,
+            "maxAmount": 138000,
+            "healthInsuranceFeesUnder40": 6599.5,
+            "healthInsuranceFeesOver40": 7671.5,
+            "pensionInsuranceFees": 12261
+        },
+        {
+            "level": "11",
+            "minAmount": 138000,
+            "maxAmount": 146000,
+            "healthInsuranceFeesUnder40": 6993.5,
+            "healthInsuranceFeesOver40": 8129.5,
+            "pensionInsuranceFees": 12993
+        },
+        {
+            "level": "12",
+            "minAmount": 146000,
+            "maxAmount": 155000,
+            "healthInsuranceFeesUnder40": 7387.5,
+            "healthInsuranceFeesOver40": 8587.5,
+            "pensionInsuranceFees": 13725
+        },
+        {
+            "level": "13",
+            "minAmount": 155000,
+            "maxAmount": 165000,
+            "healthInsuranceFeesUnder40": 7880.0,
+            "healthInsuranceFeesOver40": 9160,
+            "pensionInsuranceFees": 14640
+        },
+        {
+            "level": "14",
+            "minAmount": 165000,
+            "maxAmount": 175000,
+            "healthInsuranceFeesUnder40": 8372.5,
+            "healthInsuranceFeesOver40": 9732.5,
+            "pensionInsuranceFees": 15555
+        },
+        {
+            "level": "15",
+            "minAmount": 175000,
+            "maxAmount": 185000,
+            "healthInsuranceFeesUnder40": 8865,
+            "healthInsuranceFeesOver40": 10305,
+            "pensionInsuranceFees": 16470
+        },
+        {
+            "level": "16",
+            "minAmount": 185000,
+            "maxAmount": 195000,
+            "healthInsuranceFeesUnder40": 9357.5,
+            "healthInsuranceFeesOver40": 10877.5,
+            "pensionInsuranceFees": 17385
+        },
+        {
+            "level": "17",
+            "minAmount": 195000,
+            "maxAmount": 210000,
+            "healthInsuranceFeesUnder40": 9850.0,
+            "healthInsuranceFeesOver40": 11450.0,
+            "pensionInsuranceFees": 18300
+        },
+        {
+            "level": "18",
+            "minAmount": 210000,
+            "maxAmount": 230000,
+            "healthInsuranceFeesUnder40": 10835.0,
+            "healthInsuranceFeesOver40": 12595.0,
+            "pensionInsuranceFees": 20130
+        },
+        {
+            "level": "19",
+            "minAmount": 230000,
+            "maxAmount": 250000,
+            "healthInsuranceFeesUnder40": 11820.0,
+            "healthInsuranceFeesOver40": 13740.0,
+            "pensionInsuranceFees": 21960
+        },
+        {
+            "level": "20",
+            "minAmount": 250000,
+            "maxAmount": 270000,
+            "healthInsuranceFeesUnder40": 12805.0,
+            "healthInsuranceFeesOver40": 14885.0,
+            "pensionInsuranceFees": 23790
+        },
+        {
+            "level": "21",
+            "minAmount": 270000,
+            "maxAmount": 290000,
+            "healthInsuranceFeesUnder40": 13790.0,
+            "healthInsuranceFeesOver40": 16030.0,
+            "pensionInsuranceFees": 25620
+        },
+        {
+            "level": "22",
+            "minAmount": 290000,
+            "maxAmount": 310000,
+            "healthInsuranceFeesUnder40": 14775.0,
+            "healthInsuranceFeesOver40": 17175,
+            "pensionInsuranceFees": 27450
+        },
+        {
+            "level": "23",
+            "minAmount": 310000,
+            "maxAmount": 330000,
+            "healthInsuranceFeesUnder40": 15760.0,
+            "healthInsuranceFeesOver40": 18320,
+            "pensionInsuranceFees": 29280
+        },
+        {
+            "level": "24",
+            "minAmount": 330000,
+            "maxAmount": 350000,
+            "healthInsuranceFeesUnder40": 16745,
+            "healthInsuranceFeesOver40": 19465,
+            "pensionInsuranceFees": 31110
+        },
+        {
+            "level": "25",
+            "minAmount": 350000,
+            "maxAmount": 370000,
+            "healthInsuranceFeesUnder40": 17730,
+            "healthInsuranceFeesOver40": 20610,
+            "pensionInsuranceFees": 32940
+        },
+        {
+            "level": "26",
+            "minAmount": 370000,
+            "maxAmount": 395000,
+            "healthInsuranceFeesUnder40": 18715.0,
+            "healthInsuranceFeesOver40": 21755,
+            "pensionInsuranceFees": 34770
+        },
+        {
+            "level": "27",
+            "minAmount": 395000,
+            "maxAmount": 425000,
+            "healthInsuranceFeesUnder40": 20192.5,
+            "healthInsuranceFeesOver40": 23472.5,
+            "pensionInsuranceFees": 37515
+        },
+        {
+            "level": "28",
+            "minAmount": 425000,
+            "maxAmount": 455000,
+            "healthInsuranceFeesUnder40": 21670.0,
+            "healthInsuranceFeesOver40": 25190.0,
+            "pensionInsuranceFees": 40260
+        },
+        {
+            "level": "29",
+            "minAmount": 455000,
+            "maxAmount": 485000,
+            "healthInsuranceFeesUnder40": 23147.5,
+            "healthInsuranceFeesOver40": 26907.5,
+            "pensionInsuranceFees": 43005
+        },
+        {
+            "level": "30",
+            "minAmount": 485000,
+            "maxAmount": 515000,
+            "healthInsuranceFeesUnder40": 24625.0,
+            "healthInsuranceFeesOver40": 28625.0,
+            "pensionInsuranceFees": 45750
+        },
+        {
+            "level": "31",
+            "minAmount": 515000,
+            "maxAmount": 545000,
+            "healthInsuranceFeesUnder40": 26102.5,
+            "healthInsuranceFeesOver40": 30342.5,
+            "pensionInsuranceFees": 48495
+        },
+        {
+            "level": "32",
+            "minAmount": 545000,
+            "maxAmount": 575000,
+            "healthInsuranceFeesUnder40": 27580.0,
+            "healthInsuranceFeesOver40": 32060.0,
+            "pensionInsuranceFees": 51240
+        },
+        {
+            "level": "33",
+            "minAmount": 575000,
+            "maxAmount": 605000,
+            "healthInsuranceFeesUnder40": 29057.5,
+            "healthInsuranceFeesOver40": 33777.5,
+            "pensionInsuranceFees": 53985
+        },
+        {
+            "level": "34",
+            "minAmount": 605000,
+            "maxAmount": 635000,
+            "healthInsuranceFeesUnder40": 30535.0,
+            "healthInsuranceFeesOver40": 35495,
+            "pensionInsuranceFees": 56730
+        },
+        {
+            "level": "35",
+            "minAmount": 635000,
+            "maxAmount": 665000,
+            "healthInsuranceFeesUnder40": 32012.5,
+            "healthInsuranceFeesOver40": 37212.5,
+            "pensionInsuranceFees": 59475
+        },
+        {
+            "level": 36,
+            "minAmount": 665000,
+            "maxAmount": 695000,
+            "healthInsuranceFeesUnder40": 33490,
+            "healthInsuranceFeesOver40": 38930,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 37,
+            "minAmount": 695000,
+            "maxAmount": 730000,
+            "healthInsuranceFeesUnder40": 34967.5,
+            "healthInsuranceFeesOver40": 40647.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 38,
+            "minAmount": 730000,
+            "maxAmount": 770000,
+            "healthInsuranceFeesUnder40": 36937.5,
+            "healthInsuranceFeesOver40": 42937.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 39,
+            "minAmount": 770000,
+            "maxAmount": 810000,
+            "healthInsuranceFeesUnder40": 38907.5,
+            "healthInsuranceFeesOver40": 45227.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 40,
+            "minAmount": 810000,
+            "maxAmount": 855000,
+            "healthInsuranceFeesUnder40": 40877.5,
+            "healthInsuranceFeesOver40": 47517.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 41,
+            "minAmount": 855000,
+            "maxAmount": 905000,
+            "healthInsuranceFeesUnder40": 43340.0,
+            "healthInsuranceFeesOver40": 50380.0,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 42,
+            "minAmount": 905000,
+            "maxAmount": 955000,
+            "healthInsuranceFeesUnder40": 45802.5,
+            "healthInsuranceFeesOver40": 53242.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 43,
+            "minAmount": 955000,
+            "maxAmount": 1005000,
+            "healthInsuranceFeesUnder40": 48265.0,
+            "healthInsuranceFeesOver40": 56105.0,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 44,
+            "minAmount": 1005000,
+            "maxAmount": 1055000,
+            "healthInsuranceFeesUnder40": 50727.5,
+            "healthInsuranceFeesOver40": 58967.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 45,
+            "minAmount": 1055000,
+            "maxAmount": 1115000,
+            "healthInsuranceFeesUnder40": 53682.5,
+            "healthInsuranceFeesOver40": 62402.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 46,
+            "minAmount": 1115000,
+            "maxAmount": 1175000,
+            "healthInsuranceFeesUnder40": 56637.5,
+            "healthInsuranceFeesOver40": 65837.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 47,
+            "minAmount": 1175000,
+            "maxAmount": 1235000,
+            "healthInsuranceFeesUnder40": 59592.5,
+            "healthInsuranceFeesOver40": 69272.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 48,
+            "minAmount": 1235000,
+            "maxAmount": 1295000,
+            "healthInsuranceFeesUnder40": 62547.5,
+            "healthInsuranceFeesOver40": 72707.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 49,
+            "minAmount": 1295000,
+            "maxAmount": 1355000,
+            "healthInsuranceFeesUnder40": 65502.5,
+            "healthInsuranceFeesOver40": 76142.5,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 50,
+            "minAmount": 1355000,
+            "maxAmount": null,
+            "healthInsuranceFeesUnder40": 68457.5,
+            "healthInsuranceFeesOver40": 79577.5,
+            "pensionInsuranceFees": null
+        }
+    ],
+    "\u5927\u962a": [
+        {
+            "level": 1,
+            "minAmount": null,
+            "maxAmount": 63000,
+            "healthInsuranceFeesUnder40": 2998.6,
+            "healthInsuranceFeesOver40": 3462.6,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 2,
+            "minAmount": 63000,
+            "maxAmount": 73000,
+            "healthInsuranceFeesUnder40": 3515.6,
+            "healthInsuranceFeesOver40": 4059.6,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 3,
+            "minAmount": 73000,
+            "maxAmount": 83000,
+            "healthInsuranceFeesUnder40": 4032.6,
+            "healthInsuranceFeesOver40": 4656.6,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": "4",
+            "minAmount": 83000,
+            "maxAmount": 93000,
+            "healthInsuranceFeesUnder40": 4549.6,
+            "healthInsuranceFeesOver40": 5253.6,
+            "pensionInsuranceFees": 8052
+        },
+        {
+            "level": "5",
+            "minAmount": 93000,
+            "maxAmount": 101000,
+            "healthInsuranceFeesUnder40": 5066.6,
+            "healthInsuranceFeesOver40": 5850.6,
+            "pensionInsuranceFees": 8967
+        },
+        {
+            "level": "6",
+            "minAmount": 101000,
+            "maxAmount": 107000,
+            "healthInsuranceFeesUnder40": 5376.8,
+            "healthInsuranceFeesOver40": 6208.8,
+            "pensionInsuranceFees": 9516
+        },
+        {
+            "level": "7",
+            "minAmount": 107000,
+            "maxAmount": 114000,
+            "healthInsuranceFeesUnder40": 5687,
+            "healthInsuranceFeesOver40": 6567,
+            "pensionInsuranceFees": 10065
+        },
+        {
+            "level": "8",
+            "minAmount": 114000,
+            "maxAmount": 122000,
+            "healthInsuranceFeesUnder40": 6100.6,
+            "healthInsuranceFeesOver40": 7044.6,
+            "pensionInsuranceFees": 10797
+        },
+        {
+            "level": "9",
+            "minAmount": 122000,
+            "maxAmount": 130000,
+            "healthInsuranceFeesUnder40": 6514.2,
+            "healthInsuranceFeesOver40": 7522.2,
+            "pensionInsuranceFees": 11529
+        },
+        {
+            "level": "10",
+            "minAmount": 130000,
+            "maxAmount": 138000,
+            "healthInsuranceFeesUnder40": 6927.8,
+            "healthInsuranceFeesOver40": 7999.8,
+            "pensionInsuranceFees": 12261
+        },
+        {
+            "level": "11",
+            "minAmount": 138000,
+            "maxAmount": 146000,
+            "healthInsuranceFeesUnder40": 7341.4,
+            "healthInsuranceFeesOver40": 8477.4,
+            "pensionInsuranceFees": 12993
+        },
+        {
+            "level": "12",
+            "minAmount": 146000,
+            "maxAmount": 155000,
+            "healthInsuranceFeesUnder40": 7755.0,
+            "healthInsuranceFeesOver40": 8955,
+            "pensionInsuranceFees": 13725
+        },
+        {
+            "level": "13",
+            "minAmount": 155000,
+            "maxAmount": 165000,
+            "healthInsuranceFeesUnder40": 8272,
+            "healthInsuranceFeesOver40": 9552,
+            "pensionInsuranceFees": 14640
+        },
+        {
+            "level": "14",
+            "minAmount": 165000,
+            "maxAmount": 175000,
+            "healthInsuranceFeesUnder40": 8789,
+            "healthInsuranceFeesOver40": 10149,
+            "pensionInsuranceFees": 15555
+        },
+        {
+            "level": "15",
+            "minAmount": 175000,
+            "maxAmount": 185000,
+            "healthInsuranceFeesUnder40": 9306,
+            "healthInsuranceFeesOver40": 10746,
+            "pensionInsuranceFees": 16470
+        },
+        {
+            "level": "16",
+            "minAmount": 185000,
+            "maxAmount": 195000,
+            "healthInsuranceFeesUnder40": 9823,
+            "healthInsuranceFeesOver40": 11343,
+            "pensionInsuranceFees": 17385
+        },
+        {
+            "level": "17",
+            "minAmount": 195000,
+            "maxAmount": 210000,
+            "healthInsuranceFeesUnder40": 10340,
+            "healthInsuranceFeesOver40": 11940,
+            "pensionInsuranceFees": 18300
+        },
+        {
+            "level": "18",
+            "minAmount": 210000,
+            "maxAmount": 230000,
+            "healthInsuranceFeesUnder40": 11374,
+            "healthInsuranceFeesOver40": 13134,
+            "pensionInsuranceFees": 20130
+        },
+        {
+            "level": "19",
+            "minAmount": 230000,
+            "maxAmount": 250000,
+            "healthInsuranceFeesUnder40": 12408.0,
+            "healthInsuranceFeesOver40": 14328.0,
+            "pensionInsuranceFees": 21960
+        },
+        {
+            "level": "20",
+            "minAmount": 250000,
+            "maxAmount": 270000,
+            "healthInsuranceFeesUnder40": 13442.0,
+            "healthInsuranceFeesOver40": 15522.0,
+            "pensionInsuranceFees": 23790
+        },
+        {
+            "level": "21",
+            "minAmount": 270000,
+            "maxAmount": 290000,
+            "healthInsuranceFeesUnder40": 14476.0,
+            "healthInsuranceFeesOver40": 16716,
+            "pensionInsuranceFees": 25620
+        },
+        {
+            "level": "22",
+            "minAmount": 290000,
+            "maxAmount": 310000,
+            "healthInsuranceFeesUnder40": 15510.0,
+            "healthInsuranceFeesOver40": 17910,
+            "pensionInsuranceFees": 27450
+        },
+        {
+            "level": "23",
+            "minAmount": 310000,
+            "maxAmount": 330000,
+            "healthInsuranceFeesUnder40": 16544,
+            "healthInsuranceFeesOver40": 19104,
+            "pensionInsuranceFees": 29280
+        },
+        {
+            "level": "24",
+            "minAmount": 330000,
+            "maxAmount": 350000,
+            "healthInsuranceFeesUnder40": 17578,
+            "healthInsuranceFeesOver40": 20298,
+            "pensionInsuranceFees": 31110
+        },
+        {
+            "level": "25",
+            "minAmount": 350000,
+            "maxAmount": 370000,
+            "healthInsuranceFeesUnder40": 18612,
+            "healthInsuranceFeesOver40": 21492,
+            "pensionInsuranceFees": 32940
+        },
+        {
+            "level": "26",
+            "minAmount": 370000,
+            "maxAmount": 395000,
+            "healthInsuranceFeesUnder40": 19646,
+            "healthInsuranceFeesOver40": 22686,
+            "pensionInsuranceFees": 34770
+        },
+        {
+            "level": "27",
+            "minAmount": 395000,
+            "maxAmount": 425000,
+            "healthInsuranceFeesUnder40": 21197,
+            "healthInsuranceFeesOver40": 24477,
+            "pensionInsuranceFees": 37515
+        },
+        {
+            "level": "28",
+            "minAmount": 425000,
+            "maxAmount": 455000,
+            "healthInsuranceFeesUnder40": 22748,
+            "healthInsuranceFeesOver40": 26268,
+            "pensionInsuranceFees": 40260
+        },
+        {
+            "level": "29",
+            "minAmount": 455000,
+            "maxAmount": 485000,
+            "healthInsuranceFeesUnder40": 24299.0,
+            "healthInsuranceFeesOver40": 28059.0,
+            "pensionInsuranceFees": 43005
+        },
+        {
+            "level": "30",
+            "minAmount": 485000,
+            "maxAmount": 515000,
+            "healthInsuranceFeesUnder40": 25850.0,
+            "healthInsuranceFeesOver40": 29850.0,
+            "pensionInsuranceFees": 45750
+        },
+        {
+            "level": "31",
+            "minAmount": 515000,
+            "maxAmount": 545000,
+            "healthInsuranceFeesUnder40": 27401.0,
+            "healthInsuranceFeesOver40": 31641.0,
+            "pensionInsuranceFees": 48495
+        },
+        {
+            "level": "32",
+            "minAmount": 545000,
+            "maxAmount": 575000,
+            "healthInsuranceFeesUnder40": 28952.0,
+            "healthInsuranceFeesOver40": 33432,
+            "pensionInsuranceFees": 51240
+        },
+        {
+            "level": "33",
+            "minAmount": 575000,
+            "maxAmount": 605000,
+            "healthInsuranceFeesUnder40": 30503.0,
+            "healthInsuranceFeesOver40": 35223,
+            "pensionInsuranceFees": 53985
+        },
+        {
+            "level": "34",
+            "minAmount": 605000,
+            "maxAmount": 635000,
+            "healthInsuranceFeesUnder40": 32054.0,
+            "healthInsuranceFeesOver40": 37014,
+            "pensionInsuranceFees": 56730
+        },
+        {
+            "level": "35",
+            "minAmount": 635000,
+            "maxAmount": 665000,
+            "healthInsuranceFeesUnder40": 33605,
+            "healthInsuranceFeesOver40": 38805,
+            "pensionInsuranceFees": 59475
+        },
+        {
+            "level": 36,
+            "minAmount": 665000,
+            "maxAmount": 695000,
+            "healthInsuranceFeesUnder40": 35156,
+            "healthInsuranceFeesOver40": 40596,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 37,
+            "minAmount": 695000,
+            "maxAmount": 730000,
+            "healthInsuranceFeesUnder40": 36707,
+            "healthInsuranceFeesOver40": 42387,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 38,
+            "minAmount": 730000,
+            "maxAmount": 770000,
+            "healthInsuranceFeesUnder40": 38775,
+            "healthInsuranceFeesOver40": 44775,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 39,
+            "minAmount": 770000,
+            "maxAmount": 810000,
+            "healthInsuranceFeesUnder40": 40843,
+            "healthInsuranceFeesOver40": 47163,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 40,
+            "minAmount": 810000,
+            "maxAmount": 855000,
+            "healthInsuranceFeesUnder40": 42911,
+            "healthInsuranceFeesOver40": 49551,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 41,
+            "minAmount": 855000,
+            "maxAmount": 905000,
+            "healthInsuranceFeesUnder40": 45496,
+            "healthInsuranceFeesOver40": 52536,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 42,
+            "minAmount": 905000,
+            "maxAmount": 955000,
+            "healthInsuranceFeesUnder40": 48081.0,
+            "healthInsuranceFeesOver40": 55521,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 43,
+            "minAmount": 955000,
+            "maxAmount": 1005000,
+            "healthInsuranceFeesUnder40": 50666.0,
+            "healthInsuranceFeesOver40": 58506.0,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 44,
+            "minAmount": 1005000,
+            "maxAmount": 1055000,
+            "healthInsuranceFeesUnder40": 53251.0,
+            "healthInsuranceFeesOver40": 61491.0,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 45,
+            "minAmount": 1055000,
+            "maxAmount": 1115000,
+            "healthInsuranceFeesUnder40": 56353.0,
+            "healthInsuranceFeesOver40": 65073.0,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 46,
+            "minAmount": 1115000,
+            "maxAmount": 1175000,
+            "healthInsuranceFeesUnder40": 59455.0,
+            "healthInsuranceFeesOver40": 68655,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 47,
+            "minAmount": 1175000,
+            "maxAmount": 1235000,
+            "healthInsuranceFeesUnder40": 62557.0,
+            "healthInsuranceFeesOver40": 72237,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 48,
+            "minAmount": 1235000,
+            "maxAmount": 1295000,
+            "healthInsuranceFeesUnder40": 65659,
+            "healthInsuranceFeesOver40": 75819,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 49,
+            "minAmount": 1295000,
+            "maxAmount": 1355000,
+            "healthInsuranceFeesUnder40": 68761,
+            "healthInsuranceFeesOver40": 79401,
+            "pensionInsuranceFees": null
+        },
+        {
+            "level": 50,
+            "minAmount": 1355000,
+            "maxAmount": null,
+            "healthInsuranceFeesUnder40": 71863,
+            "healthInsuranceFeesOver40": 82983,
+            "pensionInsuranceFees": null
+        }
+    ]
+}

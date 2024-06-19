@@ -1,0 +1,37 @@
+/** The amount of premium list every metropolis and districts */
+entity premiumAmountsByAreaTable {
+
+	/** Area name */
+	formulaName String
+    
+    /** Area code */
+	formulaCode Integer
+	
+	/** Formula code */
+	formula String 
+
+}
+
+/** Withholding Tax Table */
+entity withholdingTaxTable {
+
+	/** Table code */
+	formulaName String
+    
+    /** Year */
+	Year Integer
+
+}
+
+entity calculationFormula {
+
+    /** Formula name */
+	formulaName String
+    
+    /** Formula code */
+	formulaCode Integer
+	
+	/** Formula */
+	formula String 
+	
+}

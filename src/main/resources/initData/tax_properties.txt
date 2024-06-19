@@ -1,0 +1,11 @@
+level=0
+minAmount=1
+maxAmount=2
+dependents0=3
+dependents1=4
+dependents2=5
+dependents3=6
+dependents4=7
+dependents5=8
+dependents6=9
+dependents7=10

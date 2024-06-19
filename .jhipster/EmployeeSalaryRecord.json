@@ -1,0 +1,138 @@
+{
+  "annotations": {
+    "changelogDate": "20240615150031"
+  },
+  "applications": "*",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "documentation": "Salary record date",
+      "fieldName": "salaryRecordDate",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "documentation": "Company",
+      "fieldName": "company",
+      "fieldType": "String"
+    },
+    {
+      "documentation": "Area name",
+      "fieldName": "areaName",
+      "fieldType": "String"
+    },
+    {
+      "documentation": "Area code",
+      "fieldName": "areaCode",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Employee name",
+      "fieldName": "employeeName",
+      "fieldType": "String"
+    },
+    {
+      "documentation": "Birthday",
+      "fieldName": "birthday",
+      "fieldType": "LocalDate",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "documentation": "Employee code",
+      "fieldName": "employeeCode",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Number of dependents",
+      "fieldName": "numberOfDependents",
+      "fieldType": "Integer",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "documentation": "Basic salary",
+      "fieldName": "basicSalary",
+      "fieldType": "Integer",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "documentation": "Commuting allowance",
+      "fieldName": "commutingAllowance",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Other allowance",
+      "fieldName": "otherAllowance",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Employees' insurance level",
+      "fieldName": "insuranceLevel",
+      "fieldType": "String"
+    },
+    {
+      "documentation": "Employees' health insurance",
+      "fieldName": "healthInsuranceFees",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Employees' pension insurance",
+      "fieldName": "pensionInsuranceFees",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Labour insurance",
+      "fieldName": "labourInsuranceFees",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Personal income tax",
+      "fieldName": "personalIncomeTax",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Personal income tax level",
+      "fieldName": "personalIncomeTaxLevel",
+      "fieldType": "String"
+    },
+    {
+      "documentation": "Total deduction amount",
+      "fieldName": "totalDeductionAmount",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Take home amount",
+      "fieldName": "takeHomeAmount",
+      "fieldType": "Integer"
+    },
+    {
+      "documentation": "Version",
+      "fieldName": "version",
+      "fieldType": "Long"
+    },
+    {
+      "documentation": "Create user",
+      "fieldName": "createUserId",
+      "fieldType": "String"
+    },
+    {
+      "documentation": "Create date",
+      "fieldName": "createDate",
+      "fieldType": "Instant"
+    },
+    {
+      "documentation": "Update user",
+      "fieldName": "updateUserId",
+      "fieldType": "String"
+    },
+    {
+      "documentation": "Update date",
+      "fieldName": "updateDate",
+      "fieldType": "Instant"
+    }
+  ],
+  "name": "EmployeeSalaryRecord",
+  "pagination": "pagination",
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}

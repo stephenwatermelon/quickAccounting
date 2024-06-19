@@ -1,0 +1,73 @@
+{
+  "quickAccountingApp": {
+    "employeeSalaryRecord": {
+      "home": {
+        "title": "Employee Salary Records",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Employee Salary Record",
+        "createOrEditLabel": "创建或编辑 Employee Salary Record",
+        "notFound": "No Employee Salary Records found"
+      },
+      "created": "Employee Salary Record {{ param }} 创建成功",
+      "updated": "Employee Salary Record {{ param }} 更新成功",
+      "deleted": "Employee Salary Record {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Employee Salary Record {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Employee Salary Record"
+      },
+      "id": "ID",
+      "salaryRecordDate": "Salary Record Date",
+      "company": "Company",
+      "areaName": "Area Name",
+      "areaCode": "Area Code",
+      "employeeName": "Employee Name",
+      "birthday": "Birthday",
+      "employeeCode": "Employee Code",
+      "numberOfDependents": "Number Of Dependents",
+      "basicSalary": "Basic Salary",
+      "commutingAllowance": "Commuting Allowance",
+      "otherAllowance": "Other Allowance",
+      "insuranceLevel": "Insurance Level",
+      "healthInsuranceFees": "Health Insurance Fees",
+      "pensionInsuranceFees": "Pension Insurance Fees",
+      "labourInsuranceFees": "Labour Insurance Fees",
+      "personalIncomeTax": "Personal Income Tax",
+      "personalIncomeTaxLevel": "Personal Income Tax Level",
+      "totalDeductionAmount": "Total Deduction Amount",
+      "takeHomeAmount": "Take Home Amount",
+      "version": "Version",
+      "createUserId": "Create User Id",
+      "createDate": "Create Date",
+      "updateUserId": "Update User Id",
+      "updateDate": "Update Date",
+      "help": {
+        "salaryRecordDate": "Salary record date",
+        "company": "Company",
+        "areaName": "Area name",
+        "areaCode": "Area code",
+        "employeeName": "Employee name",
+        "birthday": "Birthday",
+        "employeeCode": "Employee code",
+        "numberOfDependents": "Number of dependents",
+        "basicSalary": "Basic salary",
+        "commutingAllowance": "Commuting allowance",
+        "otherAllowance": "Other allowance",
+        "insuranceLevel": "Employees&#39; insurance level",
+        "healthInsuranceFees": "Employees&#39; health insurance",
+        "pensionInsuranceFees": "Employees&#39; pension insurance",
+        "labourInsuranceFees": "Labour insurance",
+        "personalIncomeTax": "Personal income tax",
+        "personalIncomeTaxLevel": "Personal income tax level",
+        "totalDeductionAmount": "Total deduction amount",
+        "takeHomeAmount": "Take home amount",
+        "version": "Version",
+        "createUserId": "Create user",
+        "createDate": "Create date",
+        "updateUserId": "Update user",
+        "updateDate": "Update date"
+      }
+    }
+  }
+}

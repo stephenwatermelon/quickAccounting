@@ -1,0 +1,6 @@
+level=0
+minAmount=2
+maxAmount=4
+healthInsuranceFeesUnder40=6
+healthInsuranceFeesOver40=8
+pensionInsuranceFees=10

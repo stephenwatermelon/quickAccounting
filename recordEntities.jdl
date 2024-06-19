@@ -1,0 +1,88 @@
+entity EmployeeSalaryRecord {
+
+	// -------Input Information----- 
+
+	/** Salary record date */
+	salaryRecordDate String required
+
+	/** Company */
+	company String 
+	
+	/** Area name */
+	areaName String 
+	
+	/** Area code */
+	areaCode Integer
+	
+    /** Employee name */
+    employeeName String
+	
+	/** Birthday */
+	birthday LocalDate required
+	
+	/** Employee code */
+	employeeCode Integer
+	
+	/** Number of dependents */
+	numberOfDependents Integer required
+	
+	/** Basic salary */
+	basicSalary Integer required
+    
+    /** Commuting allowance */
+    commutingAllowance Integer
+    
+    /** Other allowance */
+    otherAllowance Integer
+	
+	
+	//----Output Information-----------
+	
+	/** Employees' insurance level */
+	insuranceLevel String
+    
+    /** Employees' health insurance */
+    healthInsuranceFees Integer
+
+    /** Employees' pension insurance */
+    pensionInsuranceFees Integer
+    
+    /** Labour insurance */
+    labourInsuranceFees Integer
+	
+	/** Personal income tax */
+	personalIncomeTax Integer
+	
+	/** Personal income tax level */
+	personalIncomeTaxLevel String
+    
+    /** Total deduction amount */
+    totalDeductionAmount Integer
+    
+    /** Take home amount */
+    TakeHomeAmount Integer
+
+    /** Version */
+    version Long
+    
+    /** Create user */
+    createUserId String
+
+    /** Create date */
+    createDate Instant
+
+    /** Update user */
+    updateUserId String
+
+    /** Update date */
+    updateDate Instant
+
+}
+
+paginate EmployeeSalaryRecord  with pagination
+
+// Use Data Transfer Objects (DTO)
+dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl 
