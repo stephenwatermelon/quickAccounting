@@ -33,13 +33,12 @@ export const EmployeeSalaryRecordUpdate = () => {
 
   const defaultDate = `${year}-${month}-${day}`;
 
-  const handleClose = () => {
-    //navigate('/employee-salary-record' + location.search);
-//     if (id) {
-//       navigate(`/employee-salary-record/${id}`);
-//     } else {
-//       navigate('/employee-salary-record');
-//     }
+  const handleClose = (newId) => {
+    if (newId) {
+      navigate(`/employee-salary-record/${newId}`);
+    } else {
+      navigate('/employee-salary-record');
+    }
   };
 
   useEffect(() => {
@@ -52,10 +51,10 @@ export const EmployeeSalaryRecordUpdate = () => {
 
   useEffect(() => {
     if (updateSuccess) {
-      handleClose();
+      handleClose(employeeSalaryRecordEntity.id);
     }
   }, [updateSuccess]);
-
+  
   // eslint-disable-next-line complexity
   const saveEntity = values => {
     if (values.id !== undefined && typeof values.id !== 'number') {
