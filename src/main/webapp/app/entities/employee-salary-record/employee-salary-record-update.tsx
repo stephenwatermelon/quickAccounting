@@ -33,7 +33,7 @@ export const EmployeeSalaryRecordUpdate = () => {
 
   const defaultDate = `${year}-${month}-${day}`;
 
-  const handleClose = (newId) => {
+  const handleClose = newId => {
     if (newId) {
       navigate(`/employee-salary-record/${newId}`);
     } else {
@@ -54,7 +54,7 @@ export const EmployeeSalaryRecordUpdate = () => {
       handleClose(employeeSalaryRecordEntity.id);
     }
   }, [updateSuccess]);
-  
+
   // eslint-disable-next-line complexity
   const saveEntity = values => {
     if (values.id !== undefined && typeof values.id !== 'number') {
@@ -154,6 +154,20 @@ export const EmployeeSalaryRecordUpdate = () => {
                 />
               ) : null}
               <ValidatedField
+                label={translate('quickAccountingApp.employeeSalaryRecord.company')}
+                id="employee-salary-record-company"
+                name="company"
+                data-cy="company"
+                type="text"
+              />
+              <ValidatedField
+                label={translate('quickAccountingApp.employeeSalaryRecord.employeeName')}
+                id="employee-salary-record-employeeName"
+                name="employeeName"
+                data-cy="employeeName"
+                type="text"
+              />
+              <ValidatedField
                 label={translate('quickAccountingApp.employeeSalaryRecord.salaryRecordDate')}
                 id="employee-salary-record-salaryRecordDate"
                 name="salaryRecordDate"
@@ -167,67 +181,39 @@ export const EmployeeSalaryRecordUpdate = () => {
                 <option value="05">05</option>
                 <option value="06">06</option>
               </ValidatedField>
-              <UncontrolledTooltip target="salaryRecordDateLabel">
-                <Translate contentKey="quickAccountingApp.employeeSalaryRecord.help.salaryRecordDate" />
-              </UncontrolledTooltip>
               <ValidatedField
-                label={translate('quickAccountingApp.employeeSalaryRecord.company')}
-                id="employee-salary-record-company"
-                name="company"
-                data-cy="company"
-                type="text"
-              />
-              <UncontrolledTooltip target="companyLabel">
-                <Translate contentKey="quickAccountingApp.employeeSalaryRecord.help.company" />
-              </UncontrolledTooltip>
-<ValidatedField
-  label={translate('quickAccountingApp.employeeSalaryRecord.areaName')}
-  id="employee-salary-record-areaName"
-  name="areaName"
-  data-cy="areaName"
-  type="select"
-  defaultValue="東京"
-  validate={{
-    required: { value: true, message: translate('entity.validation.required') },
-  }}
->
-  <option value="東京">東京</option>
-  <option value="千葉">千葉</option>
-  <option value="神奈川">神奈川</option>
-  <option value="埼玉">埼玉</option>
-  <option value="青森">青森</option>
-  <option value="秋田">秋田</option>
-  <option value="大阪">大阪</option>
-</ValidatedField>
-              <UncontrolledTooltip target="areaNameLabel">
-                <Translate contentKey="quickAccountingApp.employeeSalaryRecord.help.areaName" />
-              </UncontrolledTooltip>
-
+                label={translate('quickAccountingApp.employeeSalaryRecord.areaName')}
+                id="employee-salary-record-areaName"
+                name="areaName"
+                data-cy="areaName"
+                type="select"
+                defaultValue="東京"
+                validate={{
+                  required: { value: true, message: translate('entity.validation.required') },
+                }}
+              >
+                <option value="東京">東京</option>
+                <option value="千葉">千葉</option>
+                <option value="神奈川">神奈川</option>
+                <option value="埼玉">埼玉</option>
+                <option value="青森">青森</option>
+                <option value="秋田">秋田</option>
+                <option value="大阪">大阪</option>
+              </ValidatedField>
               <ValidatedField
-                label={translate('quickAccountingApp.employeeSalaryRecord.employeeName')}
-                id="employee-salary-record-employeeName"
-                name="employeeName"
-                data-cy="employeeName"
-                type="text"
+                label={translate('quickAccountingApp.employeeSalaryRecord.birthday')}
+                id="employee-salary-record-birthday"
+                name="birthday"
+                data-cy="birthday"
+                type="date"
+                defaultValue={defaultDate}
+                validate={{
+                  required: { value: true, message: translate('entity.validation.required') },
+                }}
               />
-              <UncontrolledTooltip target="employeeNameLabel">
-                <Translate contentKey="quickAccountingApp.employeeSalaryRecord.help.employeeName" />
-              </UncontrolledTooltip>
-    <ValidatedField
-      label={translate('quickAccountingApp.employeeSalaryRecord.birthday')}
-      id="employee-salary-record-birthday"
-      name="birthday"
-      data-cy="birthday"
-      type="date"
-      defaultValue={defaultDate}
-      validate={{
-        required: { value: true, message: translate('entity.validation.required') },
-      }}
-    />
               <UncontrolledTooltip target="birthdayLabel">
                 <Translate contentKey="quickAccountingApp.employeeSalaryRecord.help.birthday" />
               </UncontrolledTooltip>
-
               <ValidatedField
                 label={translate('quickAccountingApp.employeeSalaryRecord.areaCode')}
                 id="employee-salary-record-areaCode"
@@ -245,7 +231,6 @@ export const EmployeeSalaryRecordUpdate = () => {
               <UncontrolledTooltip target="areaCodeLabel">
                 <Translate contentKey="quickAccountingApp.employeeSalaryRecord.help.areaCode" />
               </UncontrolledTooltip>
-
               <ValidatedField
                 label={translate('quickAccountingApp.employeeSalaryRecord.numberOfDependents')}
                 id="employee-salary-record-numberOfDependents"
@@ -300,9 +285,6 @@ export const EmployeeSalaryRecordUpdate = () => {
               <UncontrolledTooltip target="otherAllowanceLabel">
                 <Translate contentKey="quickAccountingApp.employeeSalaryRecord.help.otherAllowance" />
               </UncontrolledTooltip>
-
-
-
               <Button tag={Link} id="cancel-save" data-cy="entityCreateCancelButton" to="/employee-salary-record" replace color="info">
                 <FontAwesomeIcon icon="arrow-left" />
                 &nbsp;
